@@ -1,0 +1,1 @@
+Demonstrations for friends and fam interested in R code. This repo also has little snippets for labor-intensive calculations that I'd rather store remotely (as opposed to making a whole dang local module for).
